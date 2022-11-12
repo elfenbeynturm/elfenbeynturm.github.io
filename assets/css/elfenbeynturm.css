@@ -1,11 +1,11 @@
 @font-face {
     font-family: F16;
-    src: url("../elfenbeynturm/F16_Panel Font.ttf") format('truetype');
-    font-weight: bold;
+    src: url("/assets/fonts/STIXTWoTExt-Regular.ttf") format('truetype');
+    font-weight: regular;
     font-style: normal;
 }
 
 body {
-  font-family: inter;
+  font-family: STIXTwoText;
   background-color: ivory;
 }
