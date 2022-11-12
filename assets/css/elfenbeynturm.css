@@ -2,8 +2,24 @@
   font-family: STIXTwoText;
   src: url(/assets/fonts/STIXTWoText-Regular.ttf);
 }
+@font-face {
+  font-family: STIXTwoText;
+  src: url(/assets/fonts/STIXTWoText-Italic.ttf);
+  font-style: italic;
+}
+@font-face {
+  font-family: STIXTwoText;
+  src: url(/assets/fonts/STIXTWoText-Bold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: STIXTwoText;
+  src: url(/assets/fonts/STIXTWoText-BoldItalic.ttf);
+  font-weight: bold;
+  font-style: italic;
+}
 
 body {
-  font-family: "STIX Two Text";
+  font-family: STIXTwoText;
   background-color: ivory;
 }
