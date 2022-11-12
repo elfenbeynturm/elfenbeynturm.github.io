@@ -19,7 +19,7 @@
   font-style: italic;
 } */
 
-body {
+body,h1,p {
   font-family: Georgia, serif;
   background-color: ivory;
 }
