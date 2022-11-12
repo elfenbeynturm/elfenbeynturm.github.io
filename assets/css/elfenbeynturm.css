@@ -1,4 +1,7 @@
-@import "/assets/fonts/STIXTWoText-Regular.ttf";
+@font-face {
+  font-family: STIXTwoText;
+  src: url(/assets/fonts/STIXTWoText-Regular.ttf);
+}
 
 body {
   font-family: "STIX Two Text";
