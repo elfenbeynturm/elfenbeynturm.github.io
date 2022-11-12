@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: STIXTwoText;
   src: url("../fonts/STIXTWoText-Regular.ttf");
 }
@@ -17,7 +17,7 @@
   src: url("../fonts/STIXTWoText-BoldItalic.ttf");
   font-weight: bold;
   font-style: italic;
-}
+} */
 
 body {
   font-family: STIXTwoText, serif;
