@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/assets/css/elfenbeynturm.css" media="screen" />
 
 # Welcome!
 
