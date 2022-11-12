@@ -1,9 +1,4 @@
-@font-face {
-    font-family: F16;
-    src: url("/assets/fonts/STIXTWoText-Regular.ttf") format('truetype');
-    font-weight: regular;
-    font-style: normal;
-}
+@import "/assets/fonts/STIXTWoText-Regular.ttf";
 
 body {
   font-family: "STIX Two Text";
