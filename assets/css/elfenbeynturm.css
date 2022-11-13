@@ -1,4 +1,4 @@
-/* @font-face {
+@font-face {
   font-family: STIXTwoText;
   src: url("../fonts/STIXTWoText-Regular.ttf");
 }
@@ -17,9 +17,9 @@
   src: url("../fonts/STIXTWoText-BoldItalic.ttf");
   font-weight: bold;
   font-style: italic;
-} */
+}
 
 body,h1,p {
-  font-family: Georgia, serif;
-  background-color: yellow;
+  font-family: STIXTwoText, serif;
+  background-color: ivory;
 }
