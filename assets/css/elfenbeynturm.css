@@ -19,7 +19,11 @@
   font-style: italic;
 }
 
-body,h1,p {
+body {
   font-family: STIXTwoText, serif;
   background-color: ivory;
+}
+
+h1::after {
+  content: none;
 }
